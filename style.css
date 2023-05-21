@@ -6,6 +6,11 @@ img {
   margin-top: 20px;
 }
 
+p {
+    width: 800px;
+    line-height: 28px;
+}
+
 ol,
 ul {
   line-height: 30px;
